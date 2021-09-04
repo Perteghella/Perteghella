@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/twitter/follow/perteghella?logo=Twitter&style=for-the-badge&color=grey&logoColor=white&labelColor=blue">
   </a>
   <a href="https://github.com/Matrix86">
-    <img src="https://img.shields.io/github/followers/Oerteghella?logo=Github&style=for-the-badge&color=grey&logoColor=white&labelColor=blue">
+    <img src="https://img.shields.io/github/followers/Perteghella?logo=Github&style=for-the-badge&color=grey&logoColor=white&labelColor=blue">
   </a>
   <a href="https://www.linkedin.com/in/perteghella/">
     <img src="https://img.shields.io/badge/-Giovanni%20Perteghella-blue?logo=Linkedin&style=for-the-badge">
